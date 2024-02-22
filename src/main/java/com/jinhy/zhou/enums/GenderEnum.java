@@ -1,9 +1,3 @@
-/**
- * @projectName zhou
- * @package com.jinhy.zhou.enums
- * @className com.jinhy.zhou.enums.GenderEnum
- * @copyright Copyright 2023 Thunisoft, Inc All rights reserved.
- */
 package com.jinhy.zhou.enums;
 
 /**

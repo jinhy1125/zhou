@@ -1,9 +1,3 @@
-/**
- * @projectName zhou
- * @package com.jinhy.zhou.bean
- * @className com.jinhy.zhou.bean.Person
- * @copyright Copyright 2023 Thunisoft, Inc All rights reserved.
- */
 package com.jinhy.zhou.bean;
 
 import java.time.LocalDateTime;
